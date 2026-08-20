@@ -60,22 +60,6 @@ It is unknown if JS-HTML-Simplifier is supported on the following:
 
 - OpenBSD
 
-## Importing
-
-To import this package add this to your javascript file:
-
-`import jhs from "jhs"`
-
-**NOTE**: You can use single quotes if you would like
-
-**NOTE**: This is just an example, name the variable whatever! (but keep jhs in the quotes)
-
-## Bugs
-
-No known bugs as of 2026 Wed, August 19th 5:14 PM PDT
-
-Report bugs here: [Report](https://github.com/Beey1234567/js-html-simplifier/issues)
-
 ## Contact
 
 To report bugs without using github or just to ask me anything, email:
