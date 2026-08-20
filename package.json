@@ -22,7 +22,11 @@
         "type": "individual",
         "url": "https://itch.io/profile/beey1234567"
     },
-    "os": ["darwin", "win32", "linux"],
+    "os": [
+        "darwin",
+        "win32",
+        "linux"
+    ],
     "license": "MIT",
     "main": "./index.js",
     "types": "./types.d.ts",
