@@ -1,0 +1,35 @@
+{
+    "name": "js-html-simplifier",
+    "version": "1.0.0",
+    "private": false,
+    "description": "Need a simplifier for editing HTML with JS?",
+    "contributors": ["beey789"],
+    "author": {
+        "name": "beey789",
+        "email": "dangersage100therealbee@gmail.com",
+        "url": "https://www.example.com"
+    },
+    "repository": {
+        "type": "github",
+        "url": "git+https://github.com/Beey1234567/js-html-simplifier"
+    },
+    "keywords": ["js", "html", "package", "simplifier", "js-html", "JS-HTML-Simplifier", "js-html-simplifier", "beey789"],
+    "bugs": {
+        "url": "git+https://github.com/Beey1234567/js-html-simplifier/issues",
+        "email": "dangersage100therealbee@gmail.com"
+    },
+    "funding": {
+        "type": "individual",
+        "url": "https://itch.io/profile/beey1234567"
+    },
+    "os": ["darwin", "win32", "linux"],
+    "license": "MIT",
+    "main": "./index.js",
+    "types": "./types.d.ts",
+    "exports": {
+        ".": {
+            "types": "./types.d.ts",
+            "default": "./index.js"
+        }
+    }
+}
